@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Erdenebat 👋
 
-<!--
-**Erdenebat753/Erdenebat753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & Robotics Builder
 
-Here are some ideas to get you started:
+⚙️ Embedded Systems • ROS2 • Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Founder @ Esola Lab
+
+## Currently Building
+- Roybot AI Home Robot
+- Bonebroth ERP
+- AI Smart Fitting Mirror
+
+## Tech Stack
+Python • C++ • ROS2 • React • Next.js • PostgreSQL
