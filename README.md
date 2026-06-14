@@ -1,97 +1,130 @@
-# 👋 Hello, I'm Erdenebat Batchimeg
+# 👋 Hi, I'm Erdenebat Batchimeg
 
-### AI • Robotics • Embedded Systems • Software Engineering
+### AI Engineer • Robotics Developer • Embedded Systems Engineer
 
-I build intelligent systems that connect hardware and software.
+Building intelligent systems that bridge hardware and software.
 
-Currently studying Global Media at Soongsil University while developing AI-powered robots, embedded systems, IoT devices, and scalable software products.
+🇲🇳 Mongolia  
+🎓 Global Media Student @ Soongsil University  
+🚀 Founder of Esola Lab  
+🤖 Robotics & AI Enthusiast
 
 ---
 
-## 🚀 What I'm Building
+## About Me
+
+I enjoy transforming ideas into real-world products.
+
+My work focuses on robotics, artificial intelligence, embedded systems, IoT, and scalable software platforms. I build complete systems from electronics and firmware to cloud infrastructure and user interfaces.
+
+Currently working on AI-powered robots, business platforms, and intelligent automation systems.
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 Roybot
-An AI-powered service robot designed to assist people through voice interaction, navigation, and personalized services.
+AI-powered home service robot built with ROS2.
+
+**Highlights**
+- Face Recognition
+- Voice Interaction
+- Autonomous Navigation
+- Indoor Mapping
+- Personalized Recommendations
+- Computer Vision
 
 **Tech**
-- ROS2
-- Raspberry Pi
-- LiDAR
-- Computer Vision
-- Navigation2
-- Speech AI
+`ROS2` `Nav2` `Raspberry Pi` `LiDAR` `Python`
+
+---
 
 ### 🥣 Bonebroth ERP
-A complete ERP ecosystem for inventory, orders, delivery operations, and business management.
+Enterprise platform for inventory, orders, delivery, and business operations.
 
-**Features**
+**Highlights**
 - Inventory Management
-- Order Management
+- Order Processing
 - Delivery Tracking
 - Analytics Dashboard
 - Role-Based Access Control
+- Approval Workflow System
+
+**Tech**
+`Next.js` `TypeScript` `PostgreSQL` `Node.js`
+
+---
 
 ### 👗 AI Smart Fitting Mirror
-An intelligent retail solution combining computer vision and virtual fitting technology.
+Virtual fitting and AI fashion recommendation system.
 
-**Features**
+**Highlights**
 - Body Analysis
 - Virtual Try-On
-- AI Fashion Recommendation
+- Fashion Recommendation
 - Inventory Integration
+
+**Tech**
+`Computer Vision` `AI` `Web Platform`
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Robotics & Embedded
+
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ### Programming
-Python • C++ • TypeScript • JavaScript
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Development
-Next.js • React • Node.js • PostgreSQL • TailwindCSS
 
-### AI & ML
-OpenAI • Gemini • Computer Vision • STT/TTS • Machine Learning
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-### Tools
-Linux • Docker • Git • Figma
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
 
 ---
 
 ## 🎯 Current Focus
 
 - Autonomous Robotics
-- AI Agents
+- ROS2 Navigation Systems
 - Computer Vision
-- ERP Systems
-- IoT Products
+- AI Agents
+- ERP Platforms
+- IoT Devices
 - Startup Development
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+- Launch Bonebroth ERP
+- Open-source robotics projects
+- Participate in robotics competitions
+- Publish robotics & AI research
+- Build practical AI service robots
 
 ---
 
-## 🌍 Vision
+## 📫 Connect
 
-Building technology that transforms ideas into real-world products.
-
-**Robotics × AI × Software × Embedded Systems**
+- GitHub: https://github.com/erdenebatdev
+- Email: eegiie753@gmail.com
 
 ---
 
