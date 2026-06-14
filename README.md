@@ -1,91 +1,97 @@
-# 👋 Hi, I'm Erdenebat
+# 👋 Hello, I'm Erdenebat Batchimeg
 
-🚀 Founder of Esola Lab  
-🤖 AI & Robotics Builder  
-⚙️ Embedded Systems Engineer  
-💻 Full Stack Developer  
-🎓 Global Media Student @ Soongsil University
+### AI • Robotics • Embedded Systems • Software Engineering
 
----
+I build intelligent systems that connect hardware and software.
 
-## About Me
-
-I enjoy turning ideas into real products.
-
-My work spans across robotics, AI, embedded systems, IoT, and modern web applications. I build both hardware and software, from designing robot electronics and ROS2 systems to developing scalable web platforms and SaaS products.
-
-Currently focused on:
-
-- 🤖 AI-powered service robots
-- 🧠 Computer Vision & Machine Learning
-- ⚙️ ROS2 & Autonomous Navigation
-- 🌐 Full Stack Web Applications
-- 📦 ERP & Business Systems
-- 📡 IoT & Smart Devices
+Currently studying Global Media at Soongsil University while developing AI-powered robots, embedded systems, IoT devices, and scalable software products.
 
 ---
 
-## Featured Projects
+## 🚀 What I'm Building
 
 ### 🤖 Roybot
-AI-powered home service robot built with ROS2.
+An AI-powered service robot designed to assist people through voice interaction, navigation, and personalized services.
 
-Features:
-- Face Recognition
-- Voice Interaction
-- Indoor Navigation
-- Personalized Recommendations
-- Autonomous Mapping
+**Tech**
+- ROS2
+- Raspberry Pi
+- LiDAR
+- Computer Vision
+- Navigation2
+- Speech AI
 
 ### 🥣 Bonebroth ERP
-Complete business management platform.
+A complete ERP ecosystem for inventory, orders, delivery operations, and business management.
 
-Features:
+**Features**
 - Inventory Management
-- Order Processing
+- Order Management
 - Delivery Tracking
-- Role-Based Access Control
 - Analytics Dashboard
+- Role-Based Access Control
 
 ### 👗 AI Smart Fitting Mirror
-Virtual fitting and fashion recommendation system.
+An intelligent retail solution combining computer vision and virtual fitting technology.
 
-Features:
+**Features**
 - Body Analysis
 - Virtual Try-On
-- AI Outfit Recommendation
-- Real-Time Inventory Integration
+- AI Fashion Recommendation
+- Inventory Integration
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Robotics & Embedded
-ROS2 • Raspberry Pi • Arduino • ESP32 • LiDAR • Computer Vision
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ### Programming
-Python • C++ • JavaScript • TypeScript
+Python • C++ • TypeScript • JavaScript
 
-### Frontend
-React • Next.js • Tailwind CSS
+### Web Development
+Next.js • React • Node.js • PostgreSQL • TailwindCSS
 
-### Backend
-Node.js • Express • PostgreSQL • REST API
-
-### AI
-OpenAI • Gemini • Computer Vision • STT/TTS
+### AI & ML
+OpenAI • Gemini • Computer Vision • STT/TTS • Machine Learning
 
 ### Tools
-Git • Docker • Linux • Figma
+Linux • Docker • Git • Figma
 
 ---
 
-## Current Goals
+## 🎯 Current Focus
 
-- Build practical AI robots for everyday life
-- Launch software products used by real businesses
-- Contribute to open-source robotics projects
-- Participate in robotics competitions and research
+- Autonomous Robotics
+- AI Agents
+- Computer Vision
+- ERP Systems
+- IoT Products
+- Startup Development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+---
+
+## 🌍 Vision
+
+Building technology that transforms ideas into real-world products.
+
+**Robotics × AI × Software × Embedded Systems**
 
 ---
 
